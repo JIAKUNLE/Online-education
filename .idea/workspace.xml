@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee238d1c-6382-42ef-8065-4da332c4a8d6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\xialei\.m2\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="C:\ProgramCode\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pE3uhorQg5UL1fjkXsUTZ2axP7" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service_statistics/src/main/java/com/atguigu/staservice/utils" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ProgramCode\idea-workspace\project201021\guli_parent\service\service_statistics\src\main\java\com\atguigu\staservice\utils" />
+      <recent name="C:\ProgramCode\idea-workspace\project201021\guli_parent\service\service_order\src\main\java\com\atguigu\orderservice\utils" />
+      <recent name="C:\ProgramCode\idea-workspace\project201021\guli_parent\service\service_wxlogin\src\main\java\com\atguigu\wxlogin\utils" />
+      <recent name="C:\ProgramCode\idea-workspace\project201021\guli_parent\service\service_wxlogin\src\main\resources" />
+      <recent name="C:\ProgramCode\idea-workspace\project201021\guli_parent\service\service_ucenter\src\main\java\com\atguigu\ucenterservice\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.staservice" />
+      <recent name="com.atguigu.commonutils.vo" />
+      <recent name="com.atguigu.commonutils.utils" />
+      <recent name="com.atguigu.orderservice" />
+      <recent name="com.atguigu.wxlogin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ProgramCode\idea-workspace\project201021\guli_parent\service\service_sms\src\main\java\com\atguigu\smsservice\utils" />
+      <recent name="C:\ProgramCode\idea-workspace\project201021\guli_parent\common\common_utils\src\main\java\com\atguigu\commonutils\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StaApplication">
+    <configuration name="CodeGenerator.run (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.staservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.staservice" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.staservice.CodeGenerator" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.cmsservice.CmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_edu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.eduservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.eduservice.EduApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.orderservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.orderservice.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.ossservice.OssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.smsservice.ServiceSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_ucenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.ucenterservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.ucenterservice.ServiceUcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.staservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.staservice.StaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_vod" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.vodservice.VodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StaApplication" />
+        <item itemvalue="Spring Boot.EduApplication" />
+        <item itemvalue="Spring Boot.ServiceUcApplication" />
+        <item itemvalue="JUnit.CodeGenerator.run (1)" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee238d1c-6382-42ef-8065-4da332c4a8d6" name="Default Changelist" comment="" />
+      <created>1614734646574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614734646574</updated>
+      <workItem from="1614734653237" duration="18985000" />
+      <workItem from="1614863655342" duration="696000" />
+      <workItem from="1614905226902" duration="3729000" />
+      <workItem from="1615167663342" duration="8937000" />
+      <workItem from="1615212600174" duration="572000" />
+      <workItem from="1615249791582" duration="15787000" />
+      <workItem from="1615335588668" duration="14407000" />
+      <workItem from="1615441488988" duration="7402000" />
+      <workItem from="1615508609097" duration="14558000" />
+      <workItem from="1615728846711" duration="845000" />
+      <workItem from="1615769419896" duration="16205000" />
+      <workItem from="1615856027684" duration="10446000" />
+      <workItem from="1615941219919" duration="15979000" />
+      <workItem from="1616113988932" duration="13350000" />
+      <workItem from="1616200569190" duration="16428000" />
+      <workItem from="1616373420051" duration="15539000" />
+      <workItem from="1616459648878" duration="17356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
